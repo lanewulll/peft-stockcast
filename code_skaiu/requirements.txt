@@ -1,0 +1,6 @@
+torch
+transformers==4.38.1
+pandas
+numpy
+matplotlib
+peft==0.7.1
